@@ -1,0 +1,5 @@
+[user]
+	mail = A.Duperron@telecom-st-etienne.fr
+	name = Antoine Duperron
+[http]
+	proxy = http://cache.univ-st-etienne.fr:312
